@@ -3,22 +3,22 @@ Proyecto para la creación de un bot con el bot builder de microsoft capaz de co
 
 ## Install
 To install this repository clone the source code using GIT:
-´´´bash
+```bash
 git clone https://github.com/SoldAI/microsoft-chat-bot.git
-´´´
+```
 
 Install necessary dependencies using npm:
-´´´bash
+```bash
 npm install
-´´´
+```
 
 Rename env.example to .env and start the app
-´´´bash
+```bash
 node console.js
-´´´
+```
 
 To tun with the botkit framework emulator, install the emulator following the instructions [here](https://github.com/Microsoft/BotFramework-Emulator) and run the app:
 
-´´´bash
+```bash
 node app.js
-´´´
+```
