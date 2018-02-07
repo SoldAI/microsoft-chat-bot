@@ -1,0 +1,31 @@
+{
+  "name": "hermes-skype",
+  "version": "0.0.1",
+  "description": "Hermes application for Skype integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/soldai_demos/microsoft-bot.git"
+  },
+  "keywords": [
+    "Azure",
+    "Hermes"
+  ],
+  "author": "Mario A. Campos S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/soldai_demos/microsoft-bot/issues"
+  },
+  "homepage": "https://gitlab.com/soldai_demos/microsoft-bot#README",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "dotenv": "^4.0.0",
+    "http": "0.0.0",
+    "querystring": "^0.2.0",
+    "restify": "^6.3.4",
+    "striptags": "^3.1.1"
+  }
+}
